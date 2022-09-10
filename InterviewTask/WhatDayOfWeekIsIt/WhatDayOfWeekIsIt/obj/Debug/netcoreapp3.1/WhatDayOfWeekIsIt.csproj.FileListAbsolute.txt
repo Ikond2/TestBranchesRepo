@@ -1,0 +1,13 @@
+E:\Education\InterviewTask\WhatDayOfWeekIsIt\WhatDayOfWeekIsIt\bin\Debug\netcoreapp3.1\WhatDayOfWeekIsIt.exe
+E:\Education\InterviewTask\WhatDayOfWeekIsIt\WhatDayOfWeekIsIt\bin\Debug\netcoreapp3.1\WhatDayOfWeekIsIt.deps.json
+E:\Education\InterviewTask\WhatDayOfWeekIsIt\WhatDayOfWeekIsIt\bin\Debug\netcoreapp3.1\WhatDayOfWeekIsIt.runtimeconfig.json
+E:\Education\InterviewTask\WhatDayOfWeekIsIt\WhatDayOfWeekIsIt\bin\Debug\netcoreapp3.1\WhatDayOfWeekIsIt.runtimeconfig.dev.json
+E:\Education\InterviewTask\WhatDayOfWeekIsIt\WhatDayOfWeekIsIt\bin\Debug\netcoreapp3.1\WhatDayOfWeekIsIt.dll
+E:\Education\InterviewTask\WhatDayOfWeekIsIt\WhatDayOfWeekIsIt\bin\Debug\netcoreapp3.1\WhatDayOfWeekIsIt.pdb
+E:\Education\InterviewTask\WhatDayOfWeekIsIt\WhatDayOfWeekIsIt\obj\Debug\netcoreapp3.1\WhatDayOfWeekIsIt.csproj.AssemblyReference.cache
+E:\Education\InterviewTask\WhatDayOfWeekIsIt\WhatDayOfWeekIsIt\obj\Debug\netcoreapp3.1\WhatDayOfWeekIsIt.AssemblyInfoInputs.cache
+E:\Education\InterviewTask\WhatDayOfWeekIsIt\WhatDayOfWeekIsIt\obj\Debug\netcoreapp3.1\WhatDayOfWeekIsIt.AssemblyInfo.cs
+E:\Education\InterviewTask\WhatDayOfWeekIsIt\WhatDayOfWeekIsIt\obj\Debug\netcoreapp3.1\WhatDayOfWeekIsIt.csproj.CoreCompileInputs.cache
+E:\Education\InterviewTask\WhatDayOfWeekIsIt\WhatDayOfWeekIsIt\obj\Debug\netcoreapp3.1\WhatDayOfWeekIsIt.dll
+E:\Education\InterviewTask\WhatDayOfWeekIsIt\WhatDayOfWeekIsIt\obj\Debug\netcoreapp3.1\WhatDayOfWeekIsIt.pdb
+E:\Education\InterviewTask\WhatDayOfWeekIsIt\WhatDayOfWeekIsIt\obj\Debug\netcoreapp3.1\WhatDayOfWeekIsIt.genruntimeconfig.cache
