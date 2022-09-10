@@ -4,7 +4,7 @@ using System.Text;
 
 namespace WhatDayOfWeekIsIt
 {
-    internal class Test
+    public class Test
     {
     }
 }

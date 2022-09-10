@@ -8,7 +8,7 @@ namespace WhatDayOfWeekIsIt
     {
         static void Main(string[] args)
         {
-            Queue<string> daysOfWeek = new Queue<string>(new string[] {"Thursday", "Friday", "Saturday", "Sunday", "Monday", "Tuesday","Wednesday"});
+            Queue<string> daysOfWeek = new Queue<string>(new string[] {"Thursday", "Friday", "Saturday", "Sunday", "Monday", "Tuesday","Weddnesday"});
 
             
             string dayOfWeek = DateTime.Now.AddDays(1).DayOfWeek.ToString();
