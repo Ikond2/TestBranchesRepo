@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31402.337
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhatDayOfWeekIsIt", "WhatDayOfWeekIsIt\WhatDayOfWeekIsIt.csproj", "{D6C5BEDF-5AB9-4134-8F07-BEAF45FD6067}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhatDayOfWeekIsIt", "WhatDayOfWeekIsIt\WhatDayOfWeekIsIt.csproj", "{D6C5BEDF-5AB9-4134-8F07-BEAF45FD6067}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Defines.Nomenclatures", "Defines.Nomenclatures\Defines.Nomenclatures.csproj", "{58BDB2D0-F503-4628-BDF5-694070B44C57}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{D6C5BEDF-5AB9-4134-8F07-BEAF45FD6067}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6C5BEDF-5AB9-4134-8F07-BEAF45FD6067}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6C5BEDF-5AB9-4134-8F07-BEAF45FD6067}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58BDB2D0-F503-4628-BDF5-694070B44C57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58BDB2D0-F503-4628-BDF5-694070B44C57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58BDB2D0-F503-4628-BDF5-694070B44C57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58BDB2D0-F503-4628-BDF5-694070B44C57}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

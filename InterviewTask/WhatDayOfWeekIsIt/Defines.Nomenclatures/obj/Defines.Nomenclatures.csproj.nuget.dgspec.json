@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Cveti\\Test\\TestBranchesRepo\\InterviewTask\\WhatDayOfWeekIsIt\\WhatDayOfWeekIsIt\\WhatDayOfWeekIsIt.csproj": {}
+    "D:\\Cveti\\Test\\TestBranchesRepo\\InterviewTask\\WhatDayOfWeekIsIt\\Defines.Nomenclatures\\Defines.Nomenclatures.csproj": {}
   },
   "projects": {
-    "D:\\Cveti\\Test\\TestBranchesRepo\\InterviewTask\\WhatDayOfWeekIsIt\\WhatDayOfWeekIsIt\\WhatDayOfWeekIsIt.csproj": {
+    "D:\\Cveti\\Test\\TestBranchesRepo\\InterviewTask\\WhatDayOfWeekIsIt\\Defines.Nomenclatures\\Defines.Nomenclatures.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Cveti\\Test\\TestBranchesRepo\\InterviewTask\\WhatDayOfWeekIsIt\\WhatDayOfWeekIsIt\\WhatDayOfWeekIsIt.csproj",
-        "projectName": "WhatDayOfWeekIsIt",
-        "projectPath": "D:\\Cveti\\Test\\TestBranchesRepo\\InterviewTask\\WhatDayOfWeekIsIt\\WhatDayOfWeekIsIt\\WhatDayOfWeekIsIt.csproj",
+        "projectUniqueName": "D:\\Cveti\\Test\\TestBranchesRepo\\InterviewTask\\WhatDayOfWeekIsIt\\Defines.Nomenclatures\\Defines.Nomenclatures.csproj",
+        "projectName": "Defines.Nomenclatures",
+        "projectPath": "D:\\Cveti\\Test\\TestBranchesRepo\\InterviewTask\\WhatDayOfWeekIsIt\\Defines.Nomenclatures\\Defines.Nomenclatures.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\Cveti\\Test\\TestBranchesRepo\\InterviewTask\\WhatDayOfWeekIsIt\\WhatDayOfWeekIsIt\\obj\\",
+        "outputPath": "D:\\Cveti\\Test\\TestBranchesRepo\\InterviewTask\\WhatDayOfWeekIsIt\\Defines.Nomenclatures\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\NuGetPackages"

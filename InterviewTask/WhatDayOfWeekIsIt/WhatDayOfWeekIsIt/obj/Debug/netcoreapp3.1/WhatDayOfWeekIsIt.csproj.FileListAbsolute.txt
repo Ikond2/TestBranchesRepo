@@ -11,3 +11,16 @@ E:\Education\InterviewTask\WhatDayOfWeekIsIt\WhatDayOfWeekIsIt\obj\Debug\netcore
 E:\Education\InterviewTask\WhatDayOfWeekIsIt\WhatDayOfWeekIsIt\obj\Debug\netcoreapp3.1\WhatDayOfWeekIsIt.dll
 E:\Education\InterviewTask\WhatDayOfWeekIsIt\WhatDayOfWeekIsIt\obj\Debug\netcoreapp3.1\WhatDayOfWeekIsIt.pdb
 E:\Education\InterviewTask\WhatDayOfWeekIsIt\WhatDayOfWeekIsIt\obj\Debug\netcoreapp3.1\WhatDayOfWeekIsIt.genruntimeconfig.cache
+D:\Cveti\Test\TestBranchesRepo\InterviewTask\WhatDayOfWeekIsIt\WhatDayOfWeekIsIt\bin\Debug\netcoreapp3.1\WhatDayOfWeekIsIt.exe
+D:\Cveti\Test\TestBranchesRepo\InterviewTask\WhatDayOfWeekIsIt\WhatDayOfWeekIsIt\bin\Debug\netcoreapp3.1\WhatDayOfWeekIsIt.deps.json
+D:\Cveti\Test\TestBranchesRepo\InterviewTask\WhatDayOfWeekIsIt\WhatDayOfWeekIsIt\bin\Debug\netcoreapp3.1\WhatDayOfWeekIsIt.runtimeconfig.json
+D:\Cveti\Test\TestBranchesRepo\InterviewTask\WhatDayOfWeekIsIt\WhatDayOfWeekIsIt\bin\Debug\netcoreapp3.1\WhatDayOfWeekIsIt.runtimeconfig.dev.json
+D:\Cveti\Test\TestBranchesRepo\InterviewTask\WhatDayOfWeekIsIt\WhatDayOfWeekIsIt\bin\Debug\netcoreapp3.1\WhatDayOfWeekIsIt.dll
+D:\Cveti\Test\TestBranchesRepo\InterviewTask\WhatDayOfWeekIsIt\WhatDayOfWeekIsIt\bin\Debug\netcoreapp3.1\WhatDayOfWeekIsIt.pdb
+D:\Cveti\Test\TestBranchesRepo\InterviewTask\WhatDayOfWeekIsIt\WhatDayOfWeekIsIt\obj\Debug\netcoreapp3.1\WhatDayOfWeekIsIt.csproj.AssemblyReference.cache
+D:\Cveti\Test\TestBranchesRepo\InterviewTask\WhatDayOfWeekIsIt\WhatDayOfWeekIsIt\obj\Debug\netcoreapp3.1\WhatDayOfWeekIsIt.AssemblyInfoInputs.cache
+D:\Cveti\Test\TestBranchesRepo\InterviewTask\WhatDayOfWeekIsIt\WhatDayOfWeekIsIt\obj\Debug\netcoreapp3.1\WhatDayOfWeekIsIt.AssemblyInfo.cs
+D:\Cveti\Test\TestBranchesRepo\InterviewTask\WhatDayOfWeekIsIt\WhatDayOfWeekIsIt\obj\Debug\netcoreapp3.1\WhatDayOfWeekIsIt.csproj.CoreCompileInputs.cache
+D:\Cveti\Test\TestBranchesRepo\InterviewTask\WhatDayOfWeekIsIt\WhatDayOfWeekIsIt\obj\Debug\netcoreapp3.1\WhatDayOfWeekIsIt.dll
+D:\Cveti\Test\TestBranchesRepo\InterviewTask\WhatDayOfWeekIsIt\WhatDayOfWeekIsIt\obj\Debug\netcoreapp3.1\WhatDayOfWeekIsIt.pdb
+D:\Cveti\Test\TestBranchesRepo\InterviewTask\WhatDayOfWeekIsIt\WhatDayOfWeekIsIt\obj\Debug\netcoreapp3.1\WhatDayOfWeekIsIt.genruntimeconfig.cache
