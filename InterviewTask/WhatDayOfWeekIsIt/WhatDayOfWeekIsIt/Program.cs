@@ -8,11 +8,11 @@ namespace WhatDayOfWeekIsIt
     {
         static void Main(string[] args)
         {
-            Queue<string> daysOfWeek = new Queue<string>(new string[] {"Thursday", "Friday", "Saturday", "Sunday", "Monday", "Tuesday","Weddnesday"});
+            Queue<string> daysOfWeek = new Queue<string>(new string[] { "Thursday", "Friday", "Saturday", "Sunday", "Monday", "Tuesday", "Wednesday" });
 
-            
+
             string dayOfWeek = DateTime.Now.AddDays(1).DayOfWeek.ToString();
-            while (daysOfWeek.Peek()!=dayOfWeek)
+            while (daysOfWeek.Peek() != dayOfWeek)
             {
                 daysOfWeek.Enqueue(daysOfWeek.Dequeue());
             }
@@ -20,8 +20,8 @@ namespace WhatDayOfWeekIsIt
             int month = int.Parse(Console.ReadLine());
             int day = int.Parse(Console.ReadLine());
 
-            int check = (new DateTime(2022,12,31)- DateTime.Now).Days;
-            int check1 = (new DateTime(year,month,day)- DateTime.Now).Days;
+            int check = (new DateTime(2022, 12, 31) - DateTime.Now).Days;
+            int check1 = (new DateTime(year, month, day) - DateTime.Now).Days;
 
             DateTime now = DateTime.Now;
             int currYear = now.Year;
@@ -31,19 +31,19 @@ namespace WhatDayOfWeekIsIt
             long days = 0;
 
             int years = year - currYear;
-            
 
-            if (year>currYear)
+
+            if (year > currYear)
             {
-                days+=GetDays(currMonth, currYear)-currDay;
-                for (int i = currMonth+1; i <= 12; i++)
+                days += GetDays(currMonth, currYear) - currDay;
+                for (int i = currMonth + 1; i <= 12; i++)
                 {
                     days += GetDays(i, currYear);
                 }
             }
             else
             {
-                if (month==currMonth)
+                if (month == currMonth)
                 {
                     days += day - currDay;
                 }
@@ -62,17 +62,17 @@ namespace WhatDayOfWeekIsIt
             for (int i = 1; i <= years; i++)
             {
                 decimal percent = (days) % 7;
-                string dayToChange = dOfWeek[(int)percent+2];
+                string dayToChange = dOfWeek[(int)percent + 2];
                 while (daysOfWeek.Peek() != dayToChange)
                 {
                     daysOfWeek.Enqueue(daysOfWeek.Dequeue());
                 }
                 dOfWeek = daysOfWeek.ToList();
-                if (years>0)
+                if (years > 0)
                 {
-                    if (currYear+i%4==0)
+                    if (currYear + i % 4 == 0)
                     {
-                    days += (years - 1) * 366;
+                        days += (years - 1) * 366;
 
                     }
                     else
@@ -81,7 +81,7 @@ namespace WhatDayOfWeekIsIt
                     }
                 }
             }
-            if (year>currYear)
+            if (year > currYear)
             {
                 decimal percent = (days) % 7;
                 string dayToChange = dOfWeek[(int)percent + 2];
@@ -98,7 +98,7 @@ namespace WhatDayOfWeekIsIt
             }
 
             decimal d = days % 7;
-            if (d%7==0)
+            if (d % 7 == 0)
             {
                 Console.WriteLine(dOfWeek[6]);
             }
@@ -128,11 +128,11 @@ namespace WhatDayOfWeekIsIt
             }
         }
 
-        static long GetDays(int month,int year)
+        static long GetDays(int month, int year)
         {
-            if (month==2)
+            if (month == 2)
             {
-                if (year%4==0)
+                if (year % 4 == 0)
                 {
                     return 29;
                 }
@@ -141,7 +141,7 @@ namespace WhatDayOfWeekIsIt
                     return 28;
                 }
             }
-            if (month%2==0)
+            if (month % 2 == 0)
             {
                 return 30;
             }
